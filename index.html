@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>新质生产力 × 社会发展 | New Quality Productive Forces &amp; Social Development</title>
+<meta name="description" content="以数据可视化展示新质生产力对社会发展的带动作用：科技创新、数字经济、绿色转型、民生改善。Bilingual, fully offline data-visualisation site.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ===================================================== top bar ======== -->
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#" onclick="return false;">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span class="brand-text">
+        <strong data-i18n="brand.title">新质生产力 × 社会发展</strong>
+        <small data-i18n="brand.sub">数据可视化研究平台</small>
+      </span>
+    </a>
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-view="overview" data-i18n="nav.overview">可视化总览</button>
+      <button class="tab" data-view="workbench" data-i18n="nav.workbench">数据分析工作台</button>
+    </nav>
+    <div class="topbar-right">
+      <div class="lang-switch" role="group" aria-label="language">
+        <button data-lang="zh" class="active" data-i18n="lang.zh">中文</button>
+        <button data-lang="en" data-i18n="lang.en">EN</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- =================================================== VIEW 1 : 总览 == -->
+  <section class="view active" id="view-overview">
+
+    <div class="hero">
+      <div class="hero-inner">
+        <span class="kicker" data-i18n="hero.kicker">数据可视化 · 2024</span>
+        <h1 data-i18n="hero.title">新质生产力如何重塑社会发展</h1>
+        <p class="sub" data-i18n="hero.sub"></p>
+        <div class="hero-tags">
+          <span data-i18n="hero.t1">科技创新</span>
+          <span data-i18n="hero.t2">数字经济</span>
+          <span data-i18n="hero.t3">绿色转型</span>
+          <span data-i18n="hero.t4">人才红利</span>
+          <span data-i18n="hero.t5">民生改善</span>
+        </div>
+        <button class="btn primary" data-view-link="workbench" data-i18n="hero.cta" style="margin-top:20px">进入工作台分析数据 →</button>
+      </div>
+    </div>
+
+    <!-- KPI cards (rendered by js/overview.js) -->
+    <div class="grid g-4" id="kpiRow" style="margin-bottom:18px"></div>
+
+    <!-- every indicator at a glance (rendered by js/overview.js) -->
+    <section class="card" style="margin-bottom:18px">
+      <div class="card-head">
+        <h3 data-i18n="sec.brief.title">全部指标速览</h3>
+        <span class="hint" data-i18n="sec.brief.hint"></span>
+      </div>
+      <div class="brief-grid" id="briefGrid"></div>
+    </section>
+
+    <div class="grid g-2">
+      <section class="card span-2">
+        <div class="card-head">
+          <h3 data-i18n="sec.trend.title">新质生产力指数 × 社会发展指数</h3>
+          <span class="hint" data-i18n="sec.trend.hint"></span>
+        </div>
+        <div class="chart tall" id="chartTrend"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.score.title">新质生产力指数仪表</h3>
+          <span class="hint" data-i18n="sec.score.hint"></span>
+        </div>
+        <div class="chart tall" id="chartScore"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.spillover.title">新质生产力要素 → 社会发展成效</h3>
+          <span class="hint" data-i18n="sec.spillover.hint"></span>
+        </div>
+        <div class="chart tall" id="chartSpillover"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.radar.title">地区多维能力雷达</h3>
+          <span class="hint" data-i18n="sec.radar.hint"></span>
+        </div>
+        <div class="chips" id="radarChips" style="margin-bottom:6px"></div>
+        <div class="chart tall" id="chartRadar"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.scatter.title">研发投入强度 × 劳动生产率</h3>
+          <span class="hint" data-i18n="sec.scatter.hint"></span>
+        </div>
+        <div class="chart tall" id="chartScatter"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.heat.title">地区 × 指标 热力图</h3>
+          <span class="hint" data-i18n="sec.heat.hint"></span>
+        </div>
+        <div class="chart tall" id="chartHeat"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.rank.title">高新技术企业数排名</h3>
+          <span class="hint" data-i18n="sec.rank.hint"></span>
+        </div>
+        <div class="chart mid" id="chartRank"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.race.title">数字经济占比 十年变迁</h3>
+          <span class="hint" data-i18n="sec.race.hint"></span>
+        </div>
+        <div class="chart mid" id="chartRace"></div>
+      </section>
+
+      <section class="card span-2">
+        <div class="card-head">
+          <h3 data-i18n="sec.corr.title">指标相关性矩阵</h3>
+          <span class="hint" data-i18n="sec.corr.hint"></span>
+        </div>
+        <div class="chart mid" id="chartCorr"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.rose.title">绿色能源结构演进</h3>
+          <span class="hint" data-i18n="sec.rose.hint"></span>
+        </div>
+        <div class="chart mid" id="chartRose"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.flow.title">收入增长 × 数字化水平</h3>
+          <span class="hint" data-i18n="sec.flow.hint"></span>
+        </div>
+        <div class="chart mid" id="chartFlow"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.energy.title">单位GDP能耗十年下降</h3>
+          <span class="hint" data-i18n="sec.energy.hint"></span>
+        </div>
+        <div class="chart mid" id="chartEnergy"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h3 data-i18n="sec.jobs.title">就业 × 高新技术企业</h3>
+          <span class="hint" data-i18n="sec.jobs.hint"></span>
+        </div>
+        <div class="chart mid" id="chartJobs"></div>
+      </section>
+
+      <section class="card span-2">
+        <div class="card-head">
+          <h3 data-i18n="sec.compare.title">2015 vs 2024 关键指标对比</h3>
+          <span class="hint" data-i18n="sec.compare.hint"></span>
+        </div>
+        <div class="chart mid" id="chartCompare"></div>
+      </section>
+    </div>
+  </section>
+
+  <!-- ================================================ VIEW 2 : 工作台 == -->
+  <section class="view" id="view-workbench">
+    <div class="wb">
+
+      <!-- ------------------------------------------------ side controls -->
+      <aside class="wb-side">
+
+        <div class="panel">
+          <div class="panel-head"><span class="step-no">1</span><h3 data-i18n="wb.step1">数据源</h3></div>
+          <div class="panel-body">
+            <div class="field">
+              <label data-i18n="wb.dataset">默认数据集</label>
+              <select id="dsSelect">
+                <option value="long" data-i18n="wb.dataset.long">长表 · 新质生产力（1100 行）</option>
+                <option value="wide" data-i18n="wb.dataset.wide">宽表 · 地区 × 指标</option>
+              </select>
+            </div>
+            <button class="btn primary block" id="btnReload" data-i18n="wb.load">重新加载默认数据</button>
+            <div class="divider"></div>
+            <div class="field">
+              <label data-i18n="wb.upload">上传 CSV / TSV</label>
+              <div id="dropZone" class="note" style="cursor:pointer;justify-content:center;text-align:center">
+                <span data-i18n="wb.upload.hint">拖拽文件到此处，或点击选择</span>
+              </div>
+              <input type="file" id="fileInput" accept=".csv,.tsv,.txt" style="display:none">
+            </div>
+            <div class="field">
+              <label data-i18n="wb.paste">粘贴数据</label>
+              <textarea id="pasteArea" data-i18n-ph="wb.paste.ph" placeholder="year,region,value&#10;2020,北京,12.5"></textarea>
+              <button class="btn block" id="btnParsePaste" data-i18n="wb.paste.apply">解析粘贴数据</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><span class="step-no">2</span><h3 data-i18n="wb.step2">数据操作</h3></div>
+          <div class="panel-body">
+            <div class="field">
+              <label data-i18n="wb.filter">筛选 (query)</label>
+              <input type="text" id="filterExpr" data-i18n-ph="wb.filter.ph" placeholder="如 value &gt; 50 and year &gt;= 2020">
+            </div>
+            <div class="btn-row">
+              <button class="btn" id="btnFilter" data-i18n="wb.filter.apply">应用筛选</button>
+              <button class="btn ghost" id="btnClearFilter" data-i18n="wb.filter.clear">清除筛选</button>
+            </div>
+            <div class="divider"></div>
+            <div class="field">
+              <label data-i18n="wb.sort">排序 (sort_values)</label>
+              <select id="sortCol"></select>
+            </div>
+            <div class="btn-row">
+              <button class="btn" id="btnSortAsc" data-i18n="wb.sort.asc">升序 ↑</button>
+              <button class="btn" id="btnSortDesc" data-i18n="wb.sort.desc">降序 ↓</button>
+            </div>
+            <div class="divider"></div>
+            <div class="field">
+              <label data-i18n="wb.cols">选择列</label>
+              <div class="chips" id="colChips"></div>
+            </div>
+            <div class="btn-row">
+              <button class="btn sm" id="btnDropna" data-i18n="wb.dropna">删除缺失值 dropna()</button>
+              <button class="btn sm" id="btnFillna" data-i18n="wb.fillna">填充缺失值 fillna(mean)</button>
+            </div>
+            <button class="btn sm block" id="btnDropdup" data-i18n="wb.dropdup">去重 drop_duplicates()</button>
+            <div class="divider"></div>
+            <div class="field">
+              <label data-i18n="wb.newcol">计算新列 assign()</label>
+              <input type="text" id="newColName" data-i18n-ph="wb.newname" placeholder="新列名">
+              <input type="text" id="newColExpr" data-i18n-ph="wb.newexpr.ph" placeholder="如 value * 1.1 或 income / 10000">
+              <button class="btn block" id="btnNewCol" data-i18n="wb.newcol">计算新列 assign()</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><span class="step-no">3</span><h3 data-i18n="wb.step3">分组与聚合</h3></div>
+          <div class="panel-body">
+            <div class="field">
+              <label data-i18n="wb.groupby">分组字段 groupby</label>
+              <select id="groupBy" multiple size="4"></select>
+            </div>
+            <div class="field">
+              <label data-i18n="wb.agg.by">聚合列</label>
+              <select id="aggCol"></select>
+            </div>
+            <div class="field">
+              <label data-i18n="wb.agg">聚合方式 agg</label>
+              <select id="aggFunc">
+                <option value="mean" data-i18n="wb.aggr.mean">均值 mean</option>
+                <option value="sum" data-i18n="wb.aggr.sum">求和 sum</option>
+                <option value="max" data-i18n="wb.aggr.max">最大值 max</option>
+                <option value="min" data-i18n="wb.aggr.min">最小值 min</option>
+                <option value="count" data-i18n="wb.aggr.count">计数 count</option>
+                <option value="median" data-i18n="wb.aggr.median">中位数 median</option>
+                <option value="std" data-i18n="wb.aggr.std">标准差 std</option>
+                <option value="nunique" data-i18n="wb.aggr.nunique">唯一值 nunique</option>
+              </select>
+            </div>
+            <button class="btn primary block" id="btnGroup" data-i18n="wb.applygroup">执行分组聚合</button>
+            <div class="divider"></div>
+            <div class="field">
+              <label data-i18n="wb.pivot">透视表 pivot_table</label>
+              <select id="pivotIndex"></select>
+              <select id="pivotCols"></select>
+              <select id="pivotValues"></select>
+              <button class="btn block" id="btnPivot" data-i18n="wb.pivot.apply">生成透视表</button>
+            </div>
+            <button class="btn ghost block" id="btnReset" data-i18n="wb.reset">重置全部操作</button>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><span class="step-no">5</span><h3 data-i18n="wb.step5">操作记录</h3></div>
+          <div class="panel-body"><div class="log" id="opLog"></div></div>
+        </div>
+      </aside>
+
+      <!-- --------------------------------------------------- main output -->
+      <div class="wb-main">
+
+        <div class="panel">
+          <div class="panel-head"><span class="step-no">4</span><h3 data-i18n="wb.chart.title">可视化结果</h3></div>
+          <div class="panel-body" style="gap:10px">
+            <div class="btn-row" style="align-items:center">
+              <div class="field" style="flex:0 0 190px;margin:0">
+                <label data-i18n="wb.charttype">图表类型</label>
+                <select id="chartType">
+                  <option value="line" data-i18n="wb.line">趋势折线图</option>
+                  <option value="bar" data-i18n="wb.bar">分组柱状图</option>
+                  <option value="area" data-i18n="wb.area">堆积面积图</option>
+                  <option value="pie" data-i18n="wb.pie">占比环形图</option>
+                  <option value="scatter" data-i18n="wb.scatter">散点图</option>
+                  <option value="box" data-i18n="wb.box">箱线图</option>
+                </select>
+              </div>
+              <div class="field" style="flex:0 0 150px;margin:0">
+                <label data-i18n="wb.sample">抽样行数 (head)</label>
+                <input type="number" id="headN" value="12" min="1" max="200">
+              </div>
+              <div class="field" id="chartIndicatorWrap" style="flex:0 0 220px;margin:0;display:none">
+                <label data-i18n="wb.chartind">图表指标</label>
+                <select id="chartIndicator"></select>
+              </div>
+              <button class="btn" id="btnSummary" data-i18n="wb.summary">统计描述 describe()</button>
+              <button class="btn" id="btnValueCounts" data-i18n="wb.valuecounts">频次统计 value_counts</button>
+              <button class="btn" id="btnCorr" data-i18n="wb.corr">相关性 corr()</button>
+              <button class="btn" id="btnHist" data-i18n="wb.hist">分布直方图 hist()</button>
+              <button class="btn primary" id="btnExport" data-i18n="wb.export">导出当前结果 CSV</button>
+            </div>
+            <div class="chart tall" id="wbChart"></div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><h3 data-i18n="wb.dataview">数据视图</h3></div>
+          <div class="meta-strip" id="dfMeta"></div>
+          <div class="table-shell">
+            <table class="df" id="dfTable"></table>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><h3 data-i18n="wb.health.title">数据健康</h3></div>
+          <div class="panel-body">
+            <div class="meta-strip" id="healthMeta" style="padding:0;background:none"></div>
+            <div class="health-grid" id="healthGrid"></div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head"><h3 data-i18n="wb.result">统计描述</h3></div>          <div class="panel-body">
+            <div class="stats" id="wbStats"></div>
+            <div class="table-shell" id="statsTableShell" style="display:none;border:1px solid var(--border);border-radius:12px">
+              <table class="df" id="statsTable"></table>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <span data-i18n="foot.demo"></span>
+  <span data-i18n="foot.stack"></span>
+</footer>
+
+<script src="vendor/echarts.min.js"></script>
+<script src="vendor/papaparse.min.js"></script>
+<script src="js/data.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/core.js"></script>
+<script src="js/dataframe.js"></script>
+<script src="js/overview.js"></script>
+<script src="js/workbench.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

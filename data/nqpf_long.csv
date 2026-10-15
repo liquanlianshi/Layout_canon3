@@ -1,0 +1,1101 @@
+﻿year,region,indicator,indicator_en,value,unit
+2015,北京,rd_intensity,R&D Intensity,5.976,%
+2015,北京,patents_per10k,Invention Patents / 10k,55.878,件
+2015,北京,digital_share,Digital Economy Share,32.3,%
+2015,北京,labor_prod,Labor Productivity,22.306,万元/人
+2015,北京,energy_intensity,Energy Intensity,0.25,吨标煤/万元
+2015,北京,clean_energy,Clean Energy Capacity Share,11.785,%
+2015,北京,income,Per-capita Disposable Income,52394.259,元
+2015,北京,hightech,High-tech Enterprises,11048.869,家
+2015,北京,new_jobs,New Urban Jobs,35.523,万人
+2015,北京,internet,Internet Penetration,78.347,%
+2015,北京,edu_years,Avg. Years of Schooling,11.35,年
+2015,上海,rd_intensity,R&D Intensity,3.66,%
+2015,上海,patents_per10k,Invention Patents / 10k,38.55,件
+2015,上海,digital_share,Digital Economy Share,27.602,%
+2015,上海,labor_prod,Labor Productivity,23.585,万元/人
+2015,上海,energy_intensity,Energy Intensity,0.318,吨标煤/万元
+2015,上海,clean_energy,Clean Energy Capacity Share,10.061,%
+2015,上海,income,Per-capita Disposable Income,49766.235,元
+2015,上海,hightech,High-tech Enterprises,8107.044,家
+2015,上海,new_jobs,New Urban Jobs,40.683,万人
+2015,上海,internet,Internet Penetration,75.191,%
+2015,上海,edu_years,Avg. Years of Schooling,11.15,年
+2015,广东,rd_intensity,R&D Intensity,2.494,%
+2015,广东,patents_per10k,Invention Patents / 10k,22.247,件
+2015,广东,digital_share,Digital Economy Share,26.167,%
+2015,广东,labor_prod,Labor Productivity,14.197,万元/人
+2015,广东,energy_intensity,Energy Intensity,0.403,吨标煤/万元
+2015,广东,clean_energy,Clean Energy Capacity Share,11.064,%
+2015,广东,income,Per-capita Disposable Income,28294.715,元
+2015,广东,hightech,High-tech Enterprises,11830.709,家
+2015,广东,new_jobs,New Urban Jobs,89.653,万人
+2015,广东,internet,Internet Penetration,71.774,%
+2015,广东,edu_years,Avg. Years of Schooling,9.54,年
+2015,江苏,rd_intensity,R&D Intensity,2.645,%
+2015,江苏,patents_per10k,Invention Patents / 10k,24.555,件
+2015,江苏,digital_share,Digital Economy Share,22.263,%
+2015,江苏,labor_prod,Labor Productivity,14.839,万元/人
+2015,江苏,energy_intensity,Energy Intensity,0.424,吨标煤/万元
+2015,江苏,clean_energy,Clean Energy Capacity Share,12.09,%
+2015,江苏,income,Per-capita Disposable Income,29594.847,元
+2015,江苏,hightech,High-tech Enterprises,10675.753,家
+2015,江苏,new_jobs,New Urban Jobs,70.186,万人
+2015,江苏,internet,Internet Penetration,70.416,%
+2015,江苏,edu_years,Avg. Years of Schooling,9.718,年
+2015,浙江,rd_intensity,R&D Intensity,2.388,%
+2015,浙江,patents_per10k,Invention Patents / 10k,23.659,件
+2015,浙江,digital_share,Digital Economy Share,24.189,%
+2015,浙江,labor_prod,Labor Productivity,15.221,万元/人
+2015,浙江,energy_intensity,Energy Intensity,0.401,吨标煤/万元
+2015,浙江,clean_energy,Clean Energy Capacity Share,12.957,%
+2015,浙江,income,Per-capita Disposable Income,35239.658,元
+2015,浙江,hightech,High-tech Enterprises,9014.04,家
+2015,浙江,new_jobs,New Urban Jobs,66.078,万人
+2015,浙江,internet,Internet Penetration,76.873,%
+2015,浙江,edu_years,Avg. Years of Schooling,9.569,年
+2015,山东,rd_intensity,R&D Intensity,2.093,%
+2015,山东,patents_per10k,Invention Patents / 10k,12.021,件
+2015,山东,digital_share,Digital Economy Share,15.184,%
+2015,山东,labor_prod,Labor Productivity,12.137,万元/人
+2015,山东,energy_intensity,Energy Intensity,0.546,吨标煤/万元
+2015,山东,clean_energy,Clean Energy Capacity Share,9.121,%
+2015,山东,income,Per-capita Disposable Income,24842.955,元
+2015,山东,hightech,High-tech Enterprises,5978.86,家
+2015,山东,new_jobs,New Urban Jobs,73.896,万人
+2015,山东,internet,Internet Penetration,64.368,%
+2015,山东,edu_years,Avg. Years of Schooling,8.933,年
+2015,四川,rd_intensity,R&D Intensity,1.673,%
+2015,四川,patents_per10k,Invention Patents / 10k,10.165,件
+2015,四川,digital_share,Digital Economy Share,13.03,%
+2015,四川,labor_prod,Labor Productivity,8.96,万元/人
+2015,四川,energy_intensity,Energy Intensity,0.549,吨标煤/万元
+2015,四川,clean_energy,Clean Energy Capacity Share,14.148,%
+2015,四川,income,Per-capita Disposable Income,19299.423,元
+2015,四川,hightech,High-tech Enterprises,3521.502,家
+2015,四川,new_jobs,New Urban Jobs,59.362,万人
+2015,四川,internet,Internet Penetration,61.384,%
+2015,四川,edu_years,Avg. Years of Schooling,8.548,年
+2015,湖北,rd_intensity,R&D Intensity,1.87,%
+2015,湖北,patents_per10k,Invention Patents / 10k,11.964,件
+2015,湖北,digital_share,Digital Economy Share,13.93,%
+2015,湖北,labor_prod,Labor Productivity,10.143,万元/人
+2015,湖北,energy_intensity,Energy Intensity,0.52,吨标煤/万元
+2015,湖北,clean_energy,Clean Energy Capacity Share,12.041,%
+2015,湖北,income,Per-capita Disposable Income,20626.597,元
+2015,湖北,hightech,High-tech Enterprises,4233.457,家
+2015,湖北,new_jobs,New Urban Jobs,50.505,万人
+2015,湖北,internet,Internet Penetration,63.424,%
+2015,湖北,edu_years,Avg. Years of Schooling,9.006,年
+2015,陕西,rd_intensity,R&D Intensity,1.987,%
+2015,陕西,patents_per10k,Invention Patents / 10k,13.012,件
+2015,陕西,digital_share,Digital Economy Share,11.871,%
+2015,陕西,labor_prod,Labor Productivity,9.839,万元/人
+2015,陕西,energy_intensity,Energy Intensity,0.607,吨标煤/万元
+2015,陕西,clean_energy,Clean Energy Capacity Share,9.963,%
+2015,陕西,income,Per-capita Disposable Income,17512.348,元
+2015,陕西,hightech,High-tech Enterprises,3001.629,家
+2015,陕西,new_jobs,New Urban Jobs,45.023,万人
+2015,陕西,internet,Internet Penetration,59.518,%
+2015,陕西,edu_years,Avg. Years of Schooling,9.04,年
+2015,贵州,rd_intensity,R&D Intensity,0.795,%
+2015,贵州,patents_per10k,Invention Patents / 10k,3.947,件
+2015,贵州,digital_share,Digital Economy Share,8.051,%
+2015,贵州,labor_prod,Labor Productivity,6.086,万元/人
+2015,贵州,energy_intensity,Energy Intensity,0.741,吨标煤/万元
+2015,贵州,clean_energy,Clean Energy Capacity Share,19.921,%
+2015,贵州,income,Per-capita Disposable Income,13316.694,元
+2015,贵州,hightech,High-tech Enterprises,1205.211,家
+2015,贵州,new_jobs,New Urban Jobs,29.887,万人
+2015,贵州,internet,Internet Penetration,51.644,%
+2015,贵州,edu_years,Avg. Years of Schooling,8.14,年
+2016,北京,rd_intensity,R&D Intensity,6.148,%
+2016,北京,patents_per10k,Invention Patents / 10k,62.066,件
+2016,北京,digital_share,Digital Economy Share,34.319,%
+2016,北京,labor_prod,Labor Productivity,23.533,万元/人
+2016,北京,energy_intensity,Energy Intensity,0.241,吨标煤/万元
+2016,北京,clean_energy,Clean Energy Capacity Share,13.238,%
+2016,北京,income,Per-capita Disposable Income,54753.502,元
+2016,北京,hightech,High-tech Enterprises,12645.688,家
+2016,北京,new_jobs,New Urban Jobs,35.702,万人
+2016,北京,internet,Internet Penetration,81.607,%
+2016,北京,edu_years,Avg. Years of Schooling,11.576,年
+2016,上海,rd_intensity,R&D Intensity,3.768,%
+2016,上海,patents_per10k,Invention Patents / 10k,42.757,件
+2016,上海,digital_share,Digital Economy Share,30.048,%
+2016,上海,labor_prod,Labor Productivity,24.976,万元/人
+2016,上海,energy_intensity,Energy Intensity,0.312,吨标煤/万元
+2016,上海,clean_energy,Clean Energy Capacity Share,11.191,%
+2016,上海,income,Per-capita Disposable Income,52916.583,元
+2016,上海,hightech,High-tech Enterprises,9664.888,家
+2016,上海,new_jobs,New Urban Jobs,40.007,万人
+2016,上海,internet,Internet Penetration,80.072,%
+2016,上海,edu_years,Avg. Years of Schooling,10.971,年
+2016,广东,rd_intensity,R&D Intensity,2.537,%
+2016,广东,patents_per10k,Invention Patents / 10k,24.616,件
+2016,广东,digital_share,Digital Economy Share,27.527,%
+2016,广东,labor_prod,Labor Productivity,14.603,万元/人
+2016,广东,energy_intensity,Energy Intensity,0.388,吨标煤/万元
+2016,广东,clean_energy,Clean Energy Capacity Share,11.903,%
+2016,广东,income,Per-capita Disposable Income,30197.468,元
+2016,广东,hightech,High-tech Enterprises,13692.94,家
+2016,广东,new_jobs,New Urban Jobs,90.519,万人
+2016,广东,internet,Internet Penetration,75.499,%
+2016,广东,edu_years,Avg. Years of Schooling,9.821,年
+2016,江苏,rd_intensity,R&D Intensity,2.666,%
+2016,江苏,patents_per10k,Invention Patents / 10k,28.591,件
+2016,江苏,digital_share,Digital Economy Share,23.282,%
+2016,江苏,labor_prod,Labor Productivity,15.557,万元/人
+2016,江苏,energy_intensity,Energy Intensity,0.412,吨标煤/万元
+2016,江苏,clean_energy,Clean Energy Capacity Share,12.893,%
+2016,江苏,income,Per-capita Disposable Income,31588.331,元
+2016,江苏,hightech,High-tech Enterprises,12037.981,家
+2016,江苏,new_jobs,New Urban Jobs,71.62,万人
+2016,江苏,internet,Internet Penetration,74.64,%
+2016,江苏,edu_years,Avg. Years of Schooling,9.75,年
+2016,浙江,rd_intensity,R&D Intensity,2.443,%
+2016,浙江,patents_per10k,Invention Patents / 10k,27.175,件
+2016,浙江,digital_share,Digital Economy Share,25.635,%
+2016,浙江,labor_prod,Labor Productivity,15.78,万元/人
+2016,浙江,energy_intensity,Energy Intensity,0.388,吨标煤/万元
+2016,浙江,clean_energy,Clean Energy Capacity Share,14.109,%
+2016,浙江,income,Per-capita Disposable Income,38468.538,元
+2016,浙江,hightech,High-tech Enterprises,10360.368,家
+2016,浙江,new_jobs,New Urban Jobs,65.069,万人
+2016,浙江,internet,Internet Penetration,80.943,%
+2016,浙江,edu_years,Avg. Years of Schooling,9.869,年
+2016,山东,rd_intensity,R&D Intensity,2.2,%
+2016,山东,patents_per10k,Invention Patents / 10k,13.746,件
+2016,山东,digital_share,Digital Economy Share,16.049,%
+2016,山东,labor_prod,Labor Productivity,12.512,万元/人
+2016,山东,energy_intensity,Energy Intensity,0.524,吨标煤/万元
+2016,山东,clean_energy,Clean Energy Capacity Share,9.932,%
+2016,山东,income,Per-capita Disposable Income,26489.956,元
+2016,山东,hightech,High-tech Enterprises,6969.758,家
+2016,山东,new_jobs,New Urban Jobs,74.945,万人
+2016,山东,internet,Internet Penetration,69.877,%
+2016,山东,edu_years,Avg. Years of Schooling,9.216,年
+2016,四川,rd_intensity,R&D Intensity,1.766,%
+2016,四川,patents_per10k,Invention Patents / 10k,11.212,件
+2016,四川,digital_share,Digital Economy Share,14.169,%
+2016,四川,labor_prod,Labor Productivity,9.376,万元/人
+2016,四川,energy_intensity,Energy Intensity,0.535,吨标煤/万元
+2016,四川,clean_energy,Clean Energy Capacity Share,15.12,%
+2016,四川,income,Per-capita Disposable Income,20548.867,元
+2016,四川,hightech,High-tech Enterprises,4102.323,家
+2016,四川,new_jobs,New Urban Jobs,60.889,万人
+2016,四川,internet,Internet Penetration,67.628,%
+2016,四川,edu_years,Avg. Years of Schooling,8.678,年
+2016,湖北,rd_intensity,R&D Intensity,1.931,%
+2016,湖北,patents_per10k,Invention Patents / 10k,13.393,件
+2016,湖北,digital_share,Digital Economy Share,14.917,%
+2016,湖北,labor_prod,Labor Productivity,10.712,万元/人
+2016,湖北,energy_intensity,Energy Intensity,0.493,吨标煤/万元
+2016,湖北,clean_energy,Clean Energy Capacity Share,12.885,%
+2016,湖北,income,Per-capita Disposable Income,21484.883,元
+2016,湖北,hightech,High-tech Enterprises,4861.517,家
+2016,湖北,new_jobs,New Urban Jobs,50.287,万人
+2016,湖北,internet,Internet Penetration,69.719,%
+2016,湖北,edu_years,Avg. Years of Schooling,9.335,年
+2016,陕西,rd_intensity,R&D Intensity,2.065,%
+2016,陕西,patents_per10k,Invention Patents / 10k,14.911,件
+2016,陕西,digital_share,Digital Economy Share,13.028,%
+2016,陕西,labor_prod,Labor Productivity,10.708,万元/人
+2016,陕西,energy_intensity,Energy Intensity,0.578,吨标煤/万元
+2016,陕西,clean_energy,Clean Energy Capacity Share,10.887,%
+2016,陕西,income,Per-capita Disposable Income,18707.405,元
+2016,陕西,hightech,High-tech Enterprises,3511.402,家
+2016,陕西,new_jobs,New Urban Jobs,44.96,万人
+2016,陕西,internet,Internet Penetration,66.573,%
+2016,陕西,edu_years,Avg. Years of Schooling,9.049,年
+2016,贵州,rd_intensity,R&D Intensity,0.815,%
+2016,贵州,patents_per10k,Invention Patents / 10k,4.57,件
+2016,贵州,digital_share,Digital Economy Share,8.661,%
+2016,贵州,labor_prod,Labor Productivity,6.431,万元/人
+2016,贵州,energy_intensity,Energy Intensity,0.717,吨标煤/万元
+2016,贵州,clean_energy,Clean Energy Capacity Share,20.694,%
+2016,贵州,income,Per-capita Disposable Income,14555.791,元
+2016,贵州,hightech,High-tech Enterprises,1406.946,家
+2016,贵州,new_jobs,New Urban Jobs,30.753,万人
+2016,贵州,internet,Internet Penetration,59.994,%
+2016,贵州,edu_years,Avg. Years of Schooling,8.176,年
+2017,北京,rd_intensity,R&D Intensity,6.268,%
+2017,北京,patents_per10k,Invention Patents / 10k,70.48,件
+2017,北京,digital_share,Digital Economy Share,37.677,%
+2017,北京,labor_prod,Labor Productivity,24.357,万元/人
+2017,北京,energy_intensity,Energy Intensity,0.231,吨标煤/万元
+2017,北京,clean_energy,Clean Energy Capacity Share,14.575,%
+2017,北京,income,Per-capita Disposable Income,59886.206,元
+2017,北京,hightech,High-tech Enterprises,14670.43,家
+2017,北京,new_jobs,New Urban Jobs,36.028,万人
+2017,北京,internet,Internet Penetration,82.535,%
+2017,北京,edu_years,Avg. Years of Schooling,11.882,年
+2017,上海,rd_intensity,R&D Intensity,3.958,%
+2017,上海,patents_per10k,Invention Patents / 10k,49.251,件
+2017,上海,digital_share,Digital Economy Share,33.268,%
+2017,上海,labor_prod,Labor Productivity,26.363,万元/人
+2017,上海,energy_intensity,Energy Intensity,0.293,吨标煤/万元
+2017,上海,clean_energy,Clean Energy Capacity Share,12.5,%
+2017,上海,income,Per-capita Disposable Income,56519.09,元
+2017,上海,hightech,High-tech Enterprises,11168.066,家
+2017,上海,new_jobs,New Urban Jobs,40.648,万人
+2017,上海,internet,Internet Penetration,82.064,%
+2017,上海,edu_years,Avg. Years of Schooling,11.233,年
+2017,广东,rd_intensity,R&D Intensity,2.616,%
+2017,广东,patents_per10k,Invention Patents / 10k,27.891,件
+2017,广东,digital_share,Digital Economy Share,29.895,%
+2017,广东,labor_prod,Labor Productivity,15.601,万元/人
+2017,广东,energy_intensity,Energy Intensity,0.377,吨标煤/万元
+2017,广东,clean_energy,Clean Energy Capacity Share,13.567,%
+2017,广东,income,Per-capita Disposable Income,31398.782,元
+2017,广东,hightech,High-tech Enterprises,16142.622,家
+2017,广东,new_jobs,New Urban Jobs,93.26,万人
+2017,广东,internet,Internet Penetration,80.103,%
+2017,广东,edu_years,Avg. Years of Schooling,9.731,年
+2017,江苏,rd_intensity,R&D Intensity,2.728,%
+2017,江苏,patents_per10k,Invention Patents / 10k,32.062,件
+2017,江苏,digital_share,Digital Economy Share,26.052,%
+2017,江苏,labor_prod,Labor Productivity,16.856,万元/人
+2017,江苏,energy_intensity,Energy Intensity,0.386,吨标煤/万元
+2017,江苏,clean_energy,Clean Energy Capacity Share,14.699,%
+2017,江苏,income,Per-capita Disposable Income,32966.69,元
+2017,江苏,hightech,High-tech Enterprises,14382.187,家
+2017,江苏,new_jobs,New Urban Jobs,71.104,万人
+2017,江苏,internet,Internet Penetration,77.802,%
+2017,江苏,edu_years,Avg. Years of Schooling,10.179,年
+2017,浙江,rd_intensity,R&D Intensity,2.56,%
+2017,浙江,patents_per10k,Invention Patents / 10k,30.952,件
+2017,浙江,digital_share,Digital Economy Share,28.067,%
+2017,浙江,labor_prod,Labor Productivity,16.479,万元/人
+2017,浙江,energy_intensity,Energy Intensity,0.369,吨标煤/万元
+2017,浙江,clean_energy,Clean Energy Capacity Share,15.472,%
+2017,浙江,income,Per-capita Disposable Income,39853.371,元
+2017,浙江,hightech,High-tech Enterprises,12237.838,家
+2017,浙江,new_jobs,New Urban Jobs,65.995,万人
+2017,浙江,internet,Internet Penetration,81.967,%
+2017,浙江,edu_years,Avg. Years of Schooling,9.775,年
+2017,山东,rd_intensity,R&D Intensity,2.232,%
+2017,山东,patents_per10k,Invention Patents / 10k,15.525,件
+2017,山东,digital_share,Digital Economy Share,17.415,%
+2017,山东,labor_prod,Labor Productivity,13.512,万元/人
+2017,山东,energy_intensity,Energy Intensity,0.515,吨标煤/万元
+2017,山东,clean_energy,Clean Energy Capacity Share,11.636,%
+2017,山东,income,Per-capita Disposable Income,27772.477,元
+2017,山东,hightech,High-tech Enterprises,8105.32,家
+2017,山东,new_jobs,New Urban Jobs,77.129,万人
+2017,山东,internet,Internet Penetration,75.869,%
+2017,山东,edu_years,Avg. Years of Schooling,9.363,年
+2017,四川,rd_intensity,R&D Intensity,1.795,%
+2017,四川,patents_per10k,Invention Patents / 10k,12.984,件
+2017,四川,digital_share,Digital Economy Share,15.229,%
+2017,四川,labor_prod,Labor Productivity,10.064,万元/人
+2017,四川,energy_intensity,Energy Intensity,0.506,吨标煤/万元
+2017,四川,clean_energy,Clean Energy Capacity Share,16.652,%
+2017,四川,income,Per-capita Disposable Income,21263.85,元
+2017,四川,hightech,High-tech Enterprises,4660.556,家
+2017,四川,new_jobs,New Urban Jobs,62.347,万人
+2017,四川,internet,Internet Penetration,72.868,%
+2017,四川,edu_years,Avg. Years of Schooling,8.811,年
+2017,湖北,rd_intensity,R&D Intensity,2.043,%
+2017,湖北,patents_per10k,Invention Patents / 10k,15.376,件
+2017,湖北,digital_share,Digital Economy Share,16.631,%
+2017,湖北,labor_prod,Labor Productivity,10.967,万元/人
+2017,湖北,energy_intensity,Energy Intensity,0.486,吨标煤/万元
+2017,湖北,clean_energy,Clean Energy Capacity Share,14.486,%
+2017,湖北,income,Per-capita Disposable Income,23006.35,元
+2017,湖北,hightech,High-tech Enterprises,5552.587,家
+2017,湖北,new_jobs,New Urban Jobs,51.98,万人
+2017,湖北,internet,Internet Penetration,72.288,%
+2017,湖北,edu_years,Avg. Years of Schooling,9.322,年
+2017,陕西,rd_intensity,R&D Intensity,2.132,%
+2017,陕西,patents_per10k,Invention Patents / 10k,16.655,件
+2017,陕西,digital_share,Digital Economy Share,14.239,%
+2017,陕西,labor_prod,Labor Productivity,11.257,万元/人
+2017,陕西,energy_intensity,Energy Intensity,0.56,吨标煤/万元
+2017,陕西,clean_energy,Clean Energy Capacity Share,12.723,%
+2017,陕西,income,Per-capita Disposable Income,20133.691,元
+2017,陕西,hightech,High-tech Enterprises,3998.725,家
+2017,陕西,new_jobs,New Urban Jobs,46.448,万人
+2017,陕西,internet,Internet Penetration,71.438,%
+2017,陕西,edu_years,Avg. Years of Schooling,9.102,年
+2017,贵州,rd_intensity,R&D Intensity,0.862,%
+2017,贵州,patents_per10k,Invention Patents / 10k,5.156,件
+2017,贵州,digital_share,Digital Economy Share,9.308,%
+2017,贵州,labor_prod,Labor Productivity,6.721,万元/人
+2017,贵州,energy_intensity,Energy Intensity,0.7,吨标煤/万元
+2017,贵州,clean_energy,Clean Energy Capacity Share,22.665,%
+2017,贵州,income,Per-capita Disposable Income,15235.048,元
+2017,贵州,hightech,High-tech Enterprises,1604.709,家
+2017,贵州,new_jobs,New Urban Jobs,30.586,万人
+2017,贵州,internet,Internet Penetration,65.099,%
+2017,贵州,edu_years,Avg. Years of Schooling,8.592,年
+2018,北京,rd_intensity,R&D Intensity,6.5,%
+2018,北京,patents_per10k,Invention Patents / 10k,80.028,件
+2018,北京,digital_share,Digital Economy Share,40.361,%
+2018,北京,labor_prod,Labor Productivity,26.054,万元/人
+2018,北京,energy_intensity,Energy Intensity,0.223,吨标煤/万元
+2018,北京,clean_energy,Clean Energy Capacity Share,16.523,%
+2018,北京,income,Per-capita Disposable Income,63019.816,元
+2018,北京,hightech,High-tech Enterprises,17273.68,家
+2018,北京,new_jobs,New Urban Jobs,36.217,万人
+2018,北京,internet,Internet Penetration,85.896,%
+2018,北京,edu_years,Avg. Years of Schooling,12.053,年
+2018,上海,rd_intensity,R&D Intensity,4.097,%
+2018,上海,patents_per10k,Invention Patents / 10k,55.526,件
+2018,上海,digital_share,Digital Economy Share,34.933,%
+2018,上海,labor_prod,Labor Productivity,28.523,万元/人
+2018,上海,energy_intensity,Energy Intensity,0.287,吨标煤/万元
+2018,上海,clean_energy,Clean Energy Capacity Share,14.471,%
+2018,上海,income,Per-capita Disposable Income,59988.459,元
+2018,上海,hightech,High-tech Enterprises,12633.655,家
+2018,上海,new_jobs,New Urban Jobs,41.366,万人
+2018,上海,internet,Internet Penetration,83.543,%
+2018,上海,edu_years,Avg. Years of Schooling,11.286,年
+2018,广东,rd_intensity,R&D Intensity,2.793,%
+2018,广东,patents_per10k,Invention Patents / 10k,31.546,件
+2018,广东,digital_share,Digital Economy Share,32.923,%
+2018,广东,labor_prod,Labor Productivity,16.654,万元/人
+2018,广东,energy_intensity,Energy Intensity,0.354,吨标煤/万元
+2018,广东,clean_energy,Clean Energy Capacity Share,15.531,%
+2018,广东,income,Per-capita Disposable Income,33542.788,元
+2018,广东,hightech,High-tech Enterprises,18833.762,家
+2018,广东,new_jobs,New Urban Jobs,92.745,万人
+2018,广东,internet,Internet Penetration,82.269,%
+2018,广东,edu_years,Avg. Years of Schooling,9.893,年
+2018,江苏,rd_intensity,R&D Intensity,2.877,%
+2018,江苏,patents_per10k,Invention Patents / 10k,36.074,件
+2018,江苏,digital_share,Digital Economy Share,28.316,%
+2018,江苏,labor_prod,Labor Productivity,17.825,万元/人
+2018,江苏,energy_intensity,Energy Intensity,0.377,吨标煤/万元
+2018,江苏,clean_energy,Clean Energy Capacity Share,16.383,%
+2018,江苏,income,Per-capita Disposable Income,35373.218,元
+2018,江苏,hightech,High-tech Enterprises,16367.069,家
+2018,江苏,new_jobs,New Urban Jobs,72.503,万人
+2018,江苏,internet,Internet Penetration,80.373,%
+2018,江苏,edu_years,Avg. Years of Schooling,10.134,年
+2018,浙江,rd_intensity,R&D Intensity,2.664,%
+2018,浙江,patents_per10k,Invention Patents / 10k,34.504,件
+2018,浙江,digital_share,Digital Economy Share,30.702,%
+2018,浙江,labor_prod,Labor Productivity,17.499,万元/人
+2018,浙江,energy_intensity,Energy Intensity,0.362,吨标煤/万元
+2018,浙江,clean_energy,Clean Energy Capacity Share,17.57,%
+2018,浙江,income,Per-capita Disposable Income,42307.453,元
+2018,浙江,hightech,High-tech Enterprises,13967.174,家
+2018,浙江,new_jobs,New Urban Jobs,67.758,万人
+2018,浙江,internet,Internet Penetration,84.753,%
+2018,浙江,edu_years,Avg. Years of Schooling,10.196,年
+2018,山东,rd_intensity,R&D Intensity,2.282,%
+2018,山东,patents_per10k,Invention Patents / 10k,17.523,件
+2018,山东,digital_share,Digital Economy Share,19.056,%
+2018,山东,labor_prod,Labor Productivity,14.179,万元/人
+2018,山东,energy_intensity,Energy Intensity,0.492,吨标煤/万元
+2018,山东,clean_energy,Clean Energy Capacity Share,13.269,%
+2018,山东,income,Per-capita Disposable Income,29798.845,元
+2018,山东,hightech,High-tech Enterprises,9499.934,家
+2018,山东,new_jobs,New Urban Jobs,78.492,万人
+2018,山东,internet,Internet Penetration,79.63,%
+2018,山东,edu_years,Avg. Years of Schooling,9.223,年
+2018,四川,rd_intensity,R&D Intensity,1.893,%
+2018,四川,patents_per10k,Invention Patents / 10k,14.419,件
+2018,四川,digital_share,Digital Economy Share,16.467,%
+2018,四川,labor_prod,Labor Productivity,10.616,万元/人
+2018,四川,energy_intensity,Energy Intensity,0.494,吨标煤/万元
+2018,四川,clean_energy,Clean Energy Capacity Share,18.222,%
+2018,四川,income,Per-capita Disposable Income,23198.444,元
+2018,四川,hightech,High-tech Enterprises,5398.65,家
+2018,四川,new_jobs,New Urban Jobs,63.043,万人
+2018,四川,internet,Internet Penetration,76.072,%
+2018,四川,edu_years,Avg. Years of Schooling,8.931,年
+2018,湖北,rd_intensity,R&D Intensity,2.055,%
+2018,湖北,patents_per10k,Invention Patents / 10k,17.381,件
+2018,湖北,digital_share,Digital Economy Share,17.607,%
+2018,湖北,labor_prod,Labor Productivity,11.872,万元/人
+2018,湖北,energy_intensity,Energy Intensity,0.473,吨标煤/万元
+2018,湖北,clean_energy,Clean Energy Capacity Share,16.05,%
+2018,湖北,income,Per-capita Disposable Income,24817.576,元
+2018,湖北,hightech,High-tech Enterprises,6603.228,家
+2018,湖北,new_jobs,New Urban Jobs,51.771,万人
+2018,湖北,internet,Internet Penetration,77.634,%
+2018,湖北,edu_years,Avg. Years of Schooling,9.513,年
+2018,陕西,rd_intensity,R&D Intensity,2.175,%
+2018,陕西,patents_per10k,Invention Patents / 10k,18.86,件
+2018,陕西,digital_share,Digital Economy Share,15.244,%
+2018,陕西,labor_prod,Labor Productivity,11.912,万元/人
+2018,陕西,energy_intensity,Energy Intensity,0.542,吨标煤/万元
+2018,陕西,clean_energy,Clean Energy Capacity Share,14.213,%
+2018,陕西,income,Per-capita Disposable Income,21139.302,元
+2018,陕西,hightech,High-tech Enterprises,4725.664,家
+2018,陕西,new_jobs,New Urban Jobs,46.652,万人
+2018,陕西,internet,Internet Penetration,74.847,%
+2018,陕西,edu_years,Avg. Years of Schooling,9.403,年
+2018,贵州,rd_intensity,R&D Intensity,0.87,%
+2018,贵州,patents_per10k,Invention Patents / 10k,5.759,件
+2018,贵州,digital_share,Digital Economy Share,10.178,%
+2018,贵州,labor_prod,Labor Productivity,7.115,万元/人
+2018,贵州,energy_intensity,Energy Intensity,0.678,吨标煤/万元
+2018,贵州,clean_energy,Clean Energy Capacity Share,24.01,%
+2018,贵州,income,Per-capita Disposable Income,16172.167,元
+2018,贵州,hightech,High-tech Enterprises,1861.154,家
+2018,贵州,new_jobs,New Urban Jobs,31.304,万人
+2018,贵州,internet,Internet Penetration,70.187,%
+2018,贵州,edu_years,Avg. Years of Schooling,8.456,年
+2019,北京,rd_intensity,R&D Intensity,6.581,%
+2019,北京,patents_per10k,Invention Patents / 10k,91.282,件
+2019,北京,digital_share,Digital Economy Share,44.726,%
+2019,北京,labor_prod,Labor Productivity,26.873,万元/人
+2019,北京,energy_intensity,Energy Intensity,0.219,吨标煤/万元
+2019,北京,clean_energy,Clean Energy Capacity Share,18.311,%
+2019,北京,income,Per-capita Disposable Income,67419.526,元
+2019,北京,hightech,High-tech Enterprises,19731.679,家
+2019,北京,new_jobs,New Urban Jobs,36.53,万人
+2019,北京,internet,Internet Penetration,86.631,%
+2019,北京,edu_years,Avg. Years of Schooling,12.096,年
+2019,上海,rd_intensity,R&D Intensity,4.269,%
+2019,上海,patents_per10k,Invention Patents / 10k,61.773,件
+2019,上海,digital_share,Digital Economy Share,38.141,%
+2019,上海,labor_prod,Labor Productivity,29.349,万元/人
+2019,上海,energy_intensity,Energy Intensity,0.277,吨标煤/万元
+2019,上海,clean_energy,Clean Energy Capacity Share,16.561,%
+2019,上海,income,Per-capita Disposable Income,64333.286,元
+2019,上海,hightech,High-tech Enterprises,15099.214,家
+2019,上海,new_jobs,New Urban Jobs,41.708,万人
+2019,上海,internet,Internet Penetration,85.97,%
+2019,上海,edu_years,Avg. Years of Schooling,11.663,年
+2019,广东,rd_intensity,R&D Intensity,2.83,%
+2019,广东,patents_per10k,Invention Patents / 10k,35.801,件
+2019,广东,digital_share,Digital Economy Share,35.225,%
+2019,广东,labor_prod,Labor Productivity,17.393,万元/人
+2019,广东,energy_intensity,Energy Intensity,0.341,吨标煤/万元
+2019,广东,clean_energy,Clean Energy Capacity Share,17.184,%
+2019,广东,income,Per-capita Disposable Income,35399.862,元
+2019,广东,hightech,High-tech Enterprises,21893.712,家
+2019,广东,new_jobs,New Urban Jobs,92.685,万人
+2019,广东,internet,Internet Penetration,84.72,%
+2019,广东,edu_years,Avg. Years of Schooling,10.087,年
+2019,江苏,rd_intensity,R&D Intensity,2.981,%
+2019,江苏,patents_per10k,Invention Patents / 10k,41.427,件
+2019,江苏,digital_share,Digital Economy Share,30.147,%
+2019,江苏,labor_prod,Labor Productivity,18.329,万元/人
+2019,江苏,energy_intensity,Energy Intensity,0.366,吨标煤/万元
+2019,江苏,clean_energy,Clean Energy Capacity Share,17.999,%
+2019,江苏,income,Per-capita Disposable Income,37948.945,元
+2019,江苏,hightech,High-tech Enterprises,19222.467,家
+2019,江苏,new_jobs,New Urban Jobs,74.164,万人
+2019,江苏,internet,Internet Penetration,84.473,%
+2019,江苏,edu_years,Avg. Years of Schooling,10.341,年
+2019,浙江,rd_intensity,R&D Intensity,2.771,%
+2019,浙江,patents_per10k,Invention Patents / 10k,39.824,件
+2019,浙江,digital_share,Digital Economy Share,33.412,%
+2019,浙江,labor_prod,Labor Productivity,18.82,万元/人
+2019,浙江,energy_intensity,Energy Intensity,0.345,吨标煤/万元
+2019,浙江,clean_energy,Clean Energy Capacity Share,19.164,%
+2019,浙江,income,Per-capita Disposable Income,46029.789,元
+2019,浙江,hightech,High-tech Enterprises,16010.65,家
+2019,浙江,new_jobs,New Urban Jobs,68.764,万人
+2019,浙江,internet,Internet Penetration,87.79,%
+2019,浙江,edu_years,Avg. Years of Schooling,10.105,年
+2019,山东,rd_intensity,R&D Intensity,2.415,%
+2019,山东,patents_per10k,Invention Patents / 10k,19.746,件
+2019,山东,digital_share,Digital Economy Share,20.731,%
+2019,山东,labor_prod,Labor Productivity,15.118,万元/人
+2019,山东,energy_intensity,Energy Intensity,0.469,吨标煤/万元
+2019,山东,clean_energy,Clean Energy Capacity Share,15.322,%
+2019,山东,income,Per-capita Disposable Income,31663.165,元
+2019,山东,hightech,High-tech Enterprises,10708.933,家
+2019,山东,new_jobs,New Urban Jobs,78.777,万人
+2019,山东,internet,Internet Penetration,80.502,%
+2019,山东,edu_years,Avg. Years of Schooling,9.503,年
+2019,四川,rd_intensity,R&D Intensity,1.939,%
+2019,四川,patents_per10k,Invention Patents / 10k,16.506,件
+2019,四川,digital_share,Digital Economy Share,18.001,%
+2019,四川,labor_prod,Labor Productivity,11.292,万元/人
+2019,四川,energy_intensity,Energy Intensity,0.479,吨标煤/万元
+2019,四川,clean_energy,Clean Energy Capacity Share,19.947,%
+2019,四川,income,Per-capita Disposable Income,24319.192,元
+2019,四川,hightech,High-tech Enterprises,6245.693,家
+2019,四川,new_jobs,New Urban Jobs,63.884,万人
+2019,四川,internet,Internet Penetration,79.866,%
+2019,四川,edu_years,Avg. Years of Schooling,9.066,年
+2019,湖北,rd_intensity,R&D Intensity,2.184,%
+2019,湖北,patents_per10k,Invention Patents / 10k,19.763,件
+2019,湖北,digital_share,Digital Economy Share,19.457,%
+2019,湖北,labor_prod,Labor Productivity,12.284,万元/人
+2019,湖北,energy_intensity,Energy Intensity,0.458,吨标煤/万元
+2019,湖北,clean_energy,Clean Energy Capacity Share,18.422,%
+2019,湖北,income,Per-capita Disposable Income,26514.537,元
+2019,湖北,hightech,High-tech Enterprises,7713.208,家
+2019,湖北,new_jobs,New Urban Jobs,52.764,万人
+2019,湖北,internet,Internet Penetration,80.766,%
+2019,湖北,edu_years,Avg. Years of Schooling,9.702,年
+2019,陕西,rd_intensity,R&D Intensity,2.257,%
+2019,陕西,patents_per10k,Invention Patents / 10k,21.301,件
+2019,陕西,digital_share,Digital Economy Share,16.721,%
+2019,陕西,labor_prod,Labor Productivity,12.367,万元/人
+2019,陕西,energy_intensity,Energy Intensity,0.516,吨标煤/万元
+2019,陕西,clean_energy,Clean Energy Capacity Share,16.132,%
+2019,陕西,income,Per-capita Disposable Income,22894.443,元
+2019,陕西,hightech,High-tech Enterprises,5399.382,家
+2019,陕西,new_jobs,New Urban Jobs,47.894,万人
+2019,陕西,internet,Internet Penetration,79.929,%
+2019,陕西,edu_years,Avg. Years of Schooling,9.446,年
+2019,贵州,rd_intensity,R&D Intensity,0.904,%
+2019,贵州,patents_per10k,Invention Patents / 10k,6.455,件
+2019,贵州,digital_share,Digital Economy Share,11.123,%
+2019,贵州,labor_prod,Labor Productivity,7.535,万元/人
+2019,贵州,energy_intensity,Energy Intensity,0.649,吨标煤/万元
+2019,贵州,clean_energy,Clean Energy Capacity Share,26.105,%
+2019,贵州,income,Per-capita Disposable Income,17435.586,元
+2019,贵州,hightech,High-tech Enterprises,2191.753,家
+2019,贵州,new_jobs,New Urban Jobs,31.241,万人
+2019,贵州,internet,Internet Penetration,74.519,%
+2019,贵州,edu_years,Avg. Years of Schooling,8.774,年
+2020,北京,rd_intensity,R&D Intensity,6.802,%
+2020,北京,patents_per10k,Invention Patents / 10k,101.51,件
+2020,北京,digital_share,Digital Economy Share,47.405,%
+2020,北京,labor_prod,Labor Productivity,29.252,万元/人
+2020,北京,energy_intensity,Energy Intensity,0.212,吨标煤/万元
+2020,北京,clean_energy,Clean Energy Capacity Share,20.469,%
+2020,北京,income,Per-capita Disposable Income,72445.799,元
+2020,北京,hightech,High-tech Enterprises,23266.045,家
+2020,北京,new_jobs,New Urban Jobs,36.847,万人
+2020,北京,internet,Internet Penetration,89.336,%
+2020,北京,edu_years,Avg. Years of Schooling,11.989,年
+2020,上海,rd_intensity,R&D Intensity,4.321,%
+2020,上海,patents_per10k,Invention Patents / 10k,70.258,件
+2020,上海,digital_share,Digital Economy Share,41.613,%
+2020,上海,labor_prod,Labor Productivity,31.447,万元/人
+2020,上海,energy_intensity,Energy Intensity,0.267,吨标煤/万元
+2020,上海,clean_energy,Clean Energy Capacity Share,18.707,%
+2020,上海,income,Per-capita Disposable Income,69208.945,元
+2020,上海,hightech,High-tech Enterprises,17095.844,家
+2020,上海,new_jobs,New Urban Jobs,42.918,万人
+2020,上海,internet,Internet Penetration,89.373,%
+2020,上海,edu_years,Avg. Years of Schooling,11.487,年
+2020,广东,rd_intensity,R&D Intensity,2.906,%
+2020,广东,patents_per10k,Invention Patents / 10k,40.534,件
+2020,广东,digital_share,Digital Economy Share,39.103,%
+2020,广东,labor_prod,Labor Productivity,18.263,万元/人
+2020,广东,energy_intensity,Energy Intensity,0.339,吨标煤/万元
+2020,广东,clean_energy,Clean Energy Capacity Share,19.035,%
+2020,广东,income,Per-capita Disposable Income,38181.557,元
+2020,广东,hightech,High-tech Enterprises,24902.818,家
+2020,广东,new_jobs,New Urban Jobs,95.405,万人
+2020,广东,internet,Internet Penetration,87.423,%
+2020,广东,edu_years,Avg. Years of Schooling,10.174,年
+2020,江苏,rd_intensity,R&D Intensity,3.009,%
+2020,江苏,patents_per10k,Invention Patents / 10k,46.038,件
+2020,江苏,digital_share,Digital Economy Share,33.191,%
+2020,江苏,labor_prod,Labor Productivity,19.902,万元/人
+2020,江苏,energy_intensity,Energy Intensity,0.35,吨标煤/万元
+2020,江苏,clean_energy,Clean Energy Capacity Share,20.203,%
+2020,江苏,income,Per-capita Disposable Income,39816.046,元
+2020,江苏,hightech,High-tech Enterprises,22360.278,家
+2020,江苏,new_jobs,New Urban Jobs,75.491,万人
+2020,江苏,internet,Internet Penetration,86.832,%
+2020,江苏,edu_years,Avg. Years of Schooling,10.461,年
+2020,浙江,rd_intensity,R&D Intensity,2.777,%
+2020,浙江,patents_per10k,Invention Patents / 10k,43.92,件
+2020,浙江,digital_share,Digital Economy Share,35.534,%
+2020,浙江,labor_prod,Labor Productivity,19.416,万元/人
+2020,浙江,energy_intensity,Energy Intensity,0.335,吨标煤/万元
+2020,浙江,clean_energy,Clean Energy Capacity Share,21.19,%
+2020,浙江,income,Per-capita Disposable Income,49194.105,元
+2020,浙江,hightech,High-tech Enterprises,18934.974,家
+2020,浙江,new_jobs,New Urban Jobs,69.419,万人
+2020,浙江,internet,Internet Penetration,88.314,%
+2020,浙江,edu_years,Avg. Years of Schooling,10.252,年
+2020,山东,rd_intensity,R&D Intensity,2.416,%
+2020,山东,patents_per10k,Invention Patents / 10k,22.483,件
+2020,山东,digital_share,Digital Economy Share,22.021,%
+2020,山东,labor_prod,Labor Productivity,15.713,万元/人
+2020,山东,energy_intensity,Energy Intensity,0.468,吨标煤/万元
+2020,山东,clean_energy,Clean Energy Capacity Share,17.395,%
+2020,山东,income,Per-capita Disposable Income,34091.235,元
+2020,山东,hightech,High-tech Enterprises,12715.604,家
+2020,山东,new_jobs,New Urban Jobs,80.193,万人
+2020,山东,internet,Internet Penetration,85.238,%
+2020,山东,edu_years,Avg. Years of Schooling,9.54,年
+2020,四川,rd_intensity,R&D Intensity,1.969,%
+2020,四川,patents_per10k,Invention Patents / 10k,18.462,件
+2020,四川,digital_share,Digital Economy Share,19.156,%
+2020,四川,labor_prod,Labor Productivity,11.889,万元/人
+2020,四川,energy_intensity,Energy Intensity,0.458,吨标煤/万元
+2020,四川,clean_energy,Clean Energy Capacity Share,22.255,%
+2020,四川,income,Per-capita Disposable Income,25627.736,元
+2020,四川,hightech,High-tech Enterprises,7349.683,家
+2020,四川,new_jobs,New Urban Jobs,63.276,万人
+2020,四川,internet,Internet Penetration,83.339,%
+2020,四川,edu_years,Avg. Years of Schooling,9.263,年
+2020,湖北,rd_intensity,R&D Intensity,2.199,%
+2020,湖北,patents_per10k,Invention Patents / 10k,21.917,件
+2020,湖北,digital_share,Digital Economy Share,20.535,%
+2020,湖北,labor_prod,Labor Productivity,13.187,万元/人
+2020,湖北,energy_intensity,Energy Intensity,0.429,吨标煤/万元
+2020,湖北,clean_energy,Clean Energy Capacity Share,20.196,%
+2020,湖北,income,Per-capita Disposable Income,27844.593,元
+2020,湖北,hightech,High-tech Enterprises,8899.493,家
+2020,湖北,new_jobs,New Urban Jobs,52.682,万人
+2020,湖北,internet,Internet Penetration,83.109,%
+2020,湖北,edu_years,Avg. Years of Schooling,9.724,年
+2020,陕西,rd_intensity,R&D Intensity,2.316,%
+2020,陕西,patents_per10k,Invention Patents / 10k,23.592,件
+2020,陕西,digital_share,Digital Economy Share,17.862,%
+2020,陕西,labor_prod,Labor Productivity,12.981,万元/人
+2020,陕西,energy_intensity,Energy Intensity,0.51,吨标煤/万元
+2020,陕西,clean_energy,Clean Energy Capacity Share,18.143,%
+2020,陕西,income,Per-capita Disposable Income,24119.404,元
+2020,陕西,hightech,High-tech Enterprises,6328.735,家
+2020,陕西,new_jobs,New Urban Jobs,48.131,万人
+2020,陕西,internet,Internet Penetration,83.855,%
+2020,陕西,edu_years,Avg. Years of Schooling,9.494,年
+2020,贵州,rd_intensity,R&D Intensity,0.925,%
+2020,贵州,patents_per10k,Invention Patents / 10k,7.299,件
+2020,贵州,digital_share,Digital Economy Share,11.912,%
+2020,贵州,labor_prod,Labor Productivity,7.712,万元/人
+2020,贵州,energy_intensity,Energy Intensity,0.627,吨标煤/万元
+2020,贵州,clean_energy,Clean Energy Capacity Share,28.014,%
+2020,贵州,income,Per-capita Disposable Income,18563.275,元
+2020,贵州,hightech,High-tech Enterprises,2487.208,家
+2020,贵州,new_jobs,New Urban Jobs,32.296,万人
+2020,贵州,internet,Internet Penetration,80.417,%
+2020,贵州,edu_years,Avg. Years of Schooling,8.688,年
+2021,北京,rd_intensity,R&D Intensity,7.013,%
+2021,北京,patents_per10k,Invention Patents / 10k,114.713,件
+2021,北京,digital_share,Digital Economy Share,50.172,%
+2021,北京,labor_prod,Labor Productivity,30.259,万元/人
+2021,北京,energy_intensity,Energy Intensity,0.205,吨标煤/万元
+2021,北京,clean_energy,Clean Energy Capacity Share,22.76,%
+2021,北京,income,Per-capita Disposable Income,75556.01,元
+2021,北京,hightech,High-tech Enterprises,26356.905,家
+2021,北京,new_jobs,New Urban Jobs,37.011,万人
+2021,北京,internet,Internet Penetration,93.28,%
+2021,北京,edu_years,Avg. Years of Schooling,12.156,年
+2021,上海,rd_intensity,R&D Intensity,4.474,%
+2021,上海,patents_per10k,Invention Patents / 10k,78.857,件
+2021,上海,digital_share,Digital Economy Share,44.81,%
+2021,上海,labor_prod,Labor Productivity,33.322,万元/人
+2021,上海,energy_intensity,Energy Intensity,0.258,吨标煤/万元
+2021,上海,clean_energy,Clean Energy Capacity Share,20.873,%
+2021,上海,income,Per-capita Disposable Income,72805.971,元
+2021,上海,hightech,High-tech Enterprises,19981.661,家
+2021,上海,new_jobs,New Urban Jobs,42.268,万人
+2021,上海,internet,Internet Penetration,89.59,%
+2021,上海,edu_years,Avg. Years of Schooling,11.581,年
+2021,广东,rd_intensity,R&D Intensity,3.063,%
+2021,广东,patents_per10k,Invention Patents / 10k,45.567,件
+2021,广东,digital_share,Digital Economy Share,42.17,%
+2021,广东,labor_prod,Labor Productivity,19.515,万元/人
+2021,广东,energy_intensity,Energy Intensity,0.324,吨标煤/万元
+2021,广东,clean_energy,Clean Energy Capacity Share,21.69,%
+2021,广东,income,Per-capita Disposable Income,40901.786,元
+2021,广东,hightech,High-tech Enterprises,29205.397,家
+2021,广东,new_jobs,New Urban Jobs,95.158,万人
+2021,广东,internet,Internet Penetration,90.699,%
+2021,广东,edu_years,Avg. Years of Schooling,10.183,年
+2021,江苏,rd_intensity,R&D Intensity,3.094,%
+2021,江苏,patents_per10k,Invention Patents / 10k,52.065,件
+2021,江苏,digital_share,Digital Economy Share,35.131,%
+2021,江苏,labor_prod,Labor Productivity,20.78,万元/人
+2021,江苏,energy_intensity,Energy Intensity,0.336,吨标煤/万元
+2021,江苏,clean_energy,Clean Energy Capacity Share,22.534,%
+2021,江苏,income,Per-capita Disposable Income,43687.581,元
+2021,江苏,hightech,High-tech Enterprises,25968.556,家
+2021,江苏,new_jobs,New Urban Jobs,74.093,万人
+2021,江苏,internet,Internet Penetration,88.383,%
+2021,江苏,edu_years,Avg. Years of Schooling,10.502,年
+2021,浙江,rd_intensity,R&D Intensity,2.888,%
+2021,浙江,patents_per10k,Invention Patents / 10k,49.099,件
+2021,浙江,digital_share,Digital Economy Share,38.062,%
+2021,浙江,labor_prod,Labor Productivity,20.313,万元/人
+2021,浙江,energy_intensity,Energy Intensity,0.328,吨标煤/万元
+2021,浙江,clean_energy,Clean Energy Capacity Share,23.663,%
+2021,浙江,income,Per-capita Disposable Income,51338.023,元
+2021,浙江,hightech,High-tech Enterprises,21567.596,家
+2021,浙江,new_jobs,New Urban Jobs,68.474,万人
+2021,浙江,internet,Internet Penetration,89.839,%
+2021,浙江,edu_years,Avg. Years of Schooling,10.568,年
+2021,山东,rd_intensity,R&D Intensity,2.534,%
+2021,山东,patents_per10k,Invention Patents / 10k,24.786,件
+2021,山东,digital_share,Digital Economy Share,24.12,%
+2021,山东,labor_prod,Labor Productivity,16.463,万元/人
+2021,山东,energy_intensity,Energy Intensity,0.452,吨标煤/万元
+2021,山东,clean_energy,Clean Energy Capacity Share,19.533,%
+2021,山东,income,Per-capita Disposable Income,35769.223,元
+2021,山东,hightech,High-tech Enterprises,14442.993,家
+2021,山东,new_jobs,New Urban Jobs,79.148,万人
+2021,山东,internet,Internet Penetration,88.053,%
+2021,山东,edu_years,Avg. Years of Schooling,9.813,年
+2021,四川,rd_intensity,R&D Intensity,2.065,%
+2021,四川,patents_per10k,Invention Patents / 10k,20.821,件
+2021,四川,digital_share,Digital Economy Share,20.564,%
+2021,四川,labor_prod,Labor Productivity,12.411,万元/人
+2021,四川,energy_intensity,Energy Intensity,0.437,吨标煤/万元
+2021,四川,clean_energy,Clean Energy Capacity Share,24.338,%
+2021,四川,income,Per-capita Disposable Income,27418.094,元
+2021,四川,hightech,High-tech Enterprises,8392.38,家
+2021,四川,new_jobs,New Urban Jobs,63.821,万人
+2021,四川,internet,Internet Penetration,86.811,%
+2021,四川,edu_years,Avg. Years of Schooling,9.573,年
+2021,湖北,rd_intensity,R&D Intensity,2.296,%
+2021,湖北,patents_per10k,Invention Patents / 10k,24.61,件
+2021,湖北,digital_share,Digital Economy Share,22.25,%
+2021,湖北,labor_prod,Labor Productivity,13.649,万元/人
+2021,湖北,energy_intensity,Energy Intensity,0.423,吨标煤/万元
+2021,湖北,clean_energy,Clean Energy Capacity Share,22.351,%
+2021,湖北,income,Per-capita Disposable Income,29704.946,元
+2021,湖北,hightech,High-tech Enterprises,10146.722,家
+2021,湖北,new_jobs,New Urban Jobs,52.844,万人
+2021,湖北,internet,Internet Penetration,86.972,%
+2021,湖北,edu_years,Avg. Years of Schooling,9.652,年
+2021,陕西,rd_intensity,R&D Intensity,2.406,%
+2021,陕西,patents_per10k,Invention Patents / 10k,26.958,件
+2021,陕西,digital_share,Digital Economy Share,19.114,%
+2021,陕西,labor_prod,Labor Productivity,13.663,万元/人
+2021,陕西,energy_intensity,Energy Intensity,0.482,吨标煤/万元
+2021,陕西,clean_energy,Clean Energy Capacity Share,20.989,%
+2021,陕西,income,Per-capita Disposable Income,25428.547,元
+2021,陕西,hightech,High-tech Enterprises,7379.948,家
+2021,陕西,new_jobs,New Urban Jobs,48.901,万人
+2021,陕西,internet,Internet Penetration,86.774,%
+2021,陕西,edu_years,Avg. Years of Schooling,9.776,年
+2021,贵州,rd_intensity,R&D Intensity,0.95,%
+2021,贵州,patents_per10k,Invention Patents / 10k,8.429,件
+2021,贵州,digital_share,Digital Economy Share,12.868,%
+2021,贵州,labor_prod,Labor Productivity,8.349,万元/人
+2021,贵州,energy_intensity,Energy Intensity,0.607,吨标煤/万元
+2021,贵州,clean_energy,Clean Energy Capacity Share,30.395,%
+2021,贵州,income,Per-capita Disposable Income,19522.522,元
+2021,贵州,hightech,High-tech Enterprises,2954.659,家
+2021,贵州,new_jobs,New Urban Jobs,31.93,万人
+2021,贵州,internet,Internet Penetration,84.391,%
+2021,贵州,edu_years,Avg. Years of Schooling,8.855,年
+2022,北京,rd_intensity,R&D Intensity,7.358,%
+2022,北京,patents_per10k,Invention Patents / 10k,130.582,件
+2022,北京,digital_share,Digital Economy Share,54.149,%
+2022,北京,labor_prod,Labor Productivity,31.978,万元/人
+2022,北京,energy_intensity,Energy Intensity,0.196,吨标煤/万元
+2022,北京,clean_energy,Clean Energy Capacity Share,25.07,%
+2022,北京,income,Per-capita Disposable Income,81188.587,元
+2022,北京,hightech,High-tech Enterprises,31015.206,家
+2022,北京,new_jobs,New Urban Jobs,38.581,万人
+2022,北京,internet,Internet Penetration,94.54,%
+2022,北京,edu_years,Avg. Years of Schooling,12.255,年
+2022,上海,rd_intensity,R&D Intensity,4.68,%
+2022,上海,patents_per10k,Invention Patents / 10k,88.126,件
+2022,上海,digital_share,Digital Economy Share,47.673,%
+2022,上海,labor_prod,Labor Productivity,35.489,万元/人
+2022,上海,energy_intensity,Energy Intensity,0.252,吨标煤/万元
+2022,上海,clean_energy,Clean Energy Capacity Share,22.843,%
+2022,上海,income,Per-capita Disposable Income,78672.95,元
+2022,上海,hightech,High-tech Enterprises,23573.754,家
+2022,上海,new_jobs,New Urban Jobs,42.79,万人
+2022,上海,internet,Internet Penetration,93.952,%
+2022,上海,edu_years,Avg. Years of Schooling,11.806,年
+2022,广东,rd_intensity,R&D Intensity,3.07,%
+2022,广东,patents_per10k,Invention Patents / 10k,52.279,件
+2022,广东,digital_share,Digital Economy Share,44.255,%
+2022,广东,labor_prod,Labor Productivity,20.568,万元/人
+2022,广东,energy_intensity,Energy Intensity,0.309,吨标煤/万元
+2022,广东,clean_energy,Clean Energy Capacity Share,24.094,%
+2022,广东,income,Per-capita Disposable Income,42847.953,元
+2022,广东,hightech,High-tech Enterprises,33329.149,家
+2022,广东,new_jobs,New Urban Jobs,98.679,万人
+2022,广东,internet,Internet Penetration,93.643,%
+2022,广东,edu_years,Avg. Years of Schooling,10.481,年
+2022,江苏,rd_intensity,R&D Intensity,3.216,%
+2022,江苏,patents_per10k,Invention Patents / 10k,59.499,件
+2022,江苏,digital_share,Digital Economy Share,37.413,%
+2022,江苏,labor_prod,Labor Productivity,21.767,万元/人
+2022,江苏,energy_intensity,Energy Intensity,0.327,吨标煤/万元
+2022,江苏,clean_energy,Clean Energy Capacity Share,25.217,%
+2022,江苏,income,Per-capita Disposable Income,45504.94,元
+2022,江苏,hightech,High-tech Enterprises,29961.499,家
+2022,江苏,new_jobs,New Urban Jobs,76.473,万人
+2022,江苏,internet,Internet Penetration,91.58,%
+2022,江苏,edu_years,Avg. Years of Schooling,10.657,年
+2022,浙江,rd_intensity,R&D Intensity,2.991,%
+2022,浙江,patents_per10k,Invention Patents / 10k,57.016,件
+2022,浙江,digital_share,Digital Economy Share,41.78,%
+2022,浙江,labor_prod,Labor Productivity,21.603,万元/人
+2022,浙江,energy_intensity,Energy Intensity,0.307,吨标煤/万元
+2022,浙江,clean_energy,Clean Energy Capacity Share,25.598,%
+2022,浙江,income,Per-capita Disposable Income,55644.458,元
+2022,浙江,hightech,High-tech Enterprises,25342.71,家
+2022,浙江,new_jobs,New Urban Jobs,71.603,万人
+2022,浙江,internet,Internet Penetration,94.496,%
+2022,浙江,edu_years,Avg. Years of Schooling,10.676,年
+2022,山东,rd_intensity,R&D Intensity,2.587,%
+2022,山东,patents_per10k,Invention Patents / 10k,28.079,件
+2022,山东,digital_share,Digital Economy Share,25.763,%
+2022,山东,labor_prod,Labor Productivity,17.752,万元/人
+2022,山东,energy_intensity,Energy Intensity,0.426,吨标煤/万元
+2022,山东,clean_energy,Clean Energy Capacity Share,21.644,%
+2022,山东,income,Per-capita Disposable Income,37940.152,元
+2022,山东,hightech,High-tech Enterprises,17235.545,家
+2022,山东,new_jobs,New Urban Jobs,81.632,万人
+2022,山东,internet,Internet Penetration,90.15,%
+2022,山东,edu_years,Avg. Years of Schooling,9.925,年
+2022,四川,rd_intensity,R&D Intensity,2.092,%
+2022,四川,patents_per10k,Invention Patents / 10k,23.857,件
+2022,四川,digital_share,Digital Economy Share,22.456,%
+2022,四川,labor_prod,Labor Productivity,13.198,万元/人
+2022,四川,energy_intensity,Energy Intensity,0.426,吨标煤/万元
+2022,四川,clean_energy,Clean Energy Capacity Share,27.12,%
+2022,四川,income,Per-capita Disposable Income,29841.807,元
+2022,四川,hightech,High-tech Enterprises,9815.099,家
+2022,四川,new_jobs,New Urban Jobs,64.238,万人
+2022,四川,internet,Internet Penetration,89.698,%
+2022,四川,edu_years,Avg. Years of Schooling,9.496,年
+2022,湖北,rd_intensity,R&D Intensity,2.357,%
+2022,湖北,patents_per10k,Invention Patents / 10k,28.713,件
+2022,湖北,digital_share,Digital Economy Share,23.945,%
+2022,湖北,labor_prod,Labor Productivity,14.385,万元/人
+2022,湖北,energy_intensity,Energy Intensity,0.404,吨标煤/万元
+2022,湖北,clean_energy,Clean Energy Capacity Share,24.766,%
+2022,湖北,income,Per-capita Disposable Income,31551.139,元
+2022,湖北,hightech,High-tech Enterprises,11814.762,家
+2022,湖北,new_jobs,New Urban Jobs,54.641,万人
+2022,湖北,internet,Internet Penetration,89.885,%
+2022,湖北,edu_years,Avg. Years of Schooling,9.983,年
+2022,陕西,rd_intensity,R&D Intensity,2.451,%
+2022,陕西,patents_per10k,Invention Patents / 10k,30.102,件
+2022,陕西,digital_share,Digital Economy Share,20.493,%
+2022,陕西,labor_prod,Labor Productivity,14.542,万元/人
+2022,陕西,energy_intensity,Energy Intensity,0.46,吨标煤/万元
+2022,陕西,clean_energy,Clean Energy Capacity Share,23.19,%
+2022,陕西,income,Per-capita Disposable Income,26716.083,元
+2022,陕西,hightech,High-tech Enterprises,8494.204,家
+2022,陕西,new_jobs,New Urban Jobs,49.63,万人
+2022,陕西,internet,Internet Penetration,89.894,%
+2022,陕西,edu_years,Avg. Years of Schooling,9.729,年
+2022,贵州,rd_intensity,R&D Intensity,1.012,%
+2022,贵州,patents_per10k,Invention Patents / 10k,9.313,件
+2022,贵州,digital_share,Digital Economy Share,13.764,%
+2022,贵州,labor_prod,Labor Productivity,8.791,万元/人
+2022,贵州,energy_intensity,Energy Intensity,0.593,吨标煤/万元
+2022,贵州,clean_energy,Clean Energy Capacity Share,33.222,%
+2022,贵州,income,Per-capita Disposable Income,21295.134,元
+2022,贵州,hightech,High-tech Enterprises,3421.66,家
+2022,贵州,new_jobs,New Urban Jobs,32.979,万人
+2022,贵州,internet,Internet Penetration,87.445,%
+2022,贵州,edu_years,Avg. Years of Schooling,9.14,年
+2023,北京,rd_intensity,R&D Intensity,7.525,%
+2023,北京,patents_per10k,Invention Patents / 10k,144.717,件
+2023,北京,digital_share,Digital Economy Share,57.497,%
+2023,北京,labor_prod,Labor Productivity,33.158,万元/人
+2023,北京,energy_intensity,Energy Intensity,0.189,吨标煤/万元
+2023,北京,clean_energy,Clean Energy Capacity Share,27.885,%
+2023,北京,income,Per-capita Disposable Income,87254.894,元
+2023,北京,hightech,High-tech Enterprises,36151.602,家
+2023,北京,new_jobs,New Urban Jobs,37.821,万人
+2023,北京,internet,Internet Penetration,95.689,%
+2023,北京,edu_years,Avg. Years of Schooling,12.636,年
+2023,上海,rd_intensity,R&D Intensity,4.768,%
+2023,上海,patents_per10k,Invention Patents / 10k,101.659,件
+2023,上海,digital_share,Digital Economy Share,50.678,%
+2023,上海,labor_prod,Labor Productivity,36.518,万元/人
+2023,上海,energy_intensity,Energy Intensity,0.245,吨标煤/万元
+2023,上海,clean_energy,Clean Energy Capacity Share,25.674,%
+2023,上海,income,Per-capita Disposable Income,82492.06,元
+2023,上海,hightech,High-tech Enterprises,27217.505,家
+2023,上海,new_jobs,New Urban Jobs,43.9,万人
+2023,上海,internet,Internet Penetration,95.814,%
+2023,上海,edu_years,Avg. Years of Schooling,12.062,年
+2023,广东,rd_intensity,R&D Intensity,3.256,%
+2023,广东,patents_per10k,Invention Patents / 10k,57.663,件
+2023,广东,digital_share,Digital Economy Share,46.864,%
+2023,广东,labor_prod,Labor Productivity,21.741,万元/人
+2023,广东,energy_intensity,Energy Intensity,0.299,吨标煤/万元
+2023,广东,clean_energy,Clean Energy Capacity Share,26.534,%
+2023,广东,income,Per-capita Disposable Income,45623.275,元
+2023,广东,hightech,High-tech Enterprises,39229.374,家
+2023,广东,new_jobs,New Urban Jobs,99.69,万人
+2023,广东,internet,Internet Penetration,94.787,%
+2023,广东,edu_years,Avg. Years of Schooling,10.448,年
+2023,江苏,rd_intensity,R&D Intensity,3.285,%
+2023,江苏,patents_per10k,Invention Patents / 10k,65.593,件
+2023,江苏,digital_share,Digital Economy Share,39.939,%
+2023,江苏,labor_prod,Labor Productivity,22.953,万元/人
+2023,江苏,energy_intensity,Energy Intensity,0.316,吨标煤/万元
+2023,江苏,clean_energy,Clean Energy Capacity Share,27.343,%
+2023,江苏,income,Per-capita Disposable Income,48868.07,元
+2023,江苏,hightech,High-tech Enterprises,35020.906,家
+2023,江苏,new_jobs,New Urban Jobs,76.546,万人
+2023,江苏,internet,Internet Penetration,94.671,%
+2023,江苏,edu_years,Avg. Years of Schooling,10.703,年
+2023,浙江,rd_intensity,R&D Intensity,3.058,%
+2023,浙江,patents_per10k,Invention Patents / 10k,63.344,件
+2023,浙江,digital_share,Digital Economy Share,43.949,%
+2023,浙江,labor_prod,Labor Productivity,22.857,万元/人
+2023,浙江,energy_intensity,Energy Intensity,0.305,吨标煤/万元
+2023,浙江,clean_energy,Clean Energy Capacity Share,28.36,%
+2023,浙江,income,Per-capita Disposable Income,58084.576,元
+2023,浙江,hightech,High-tech Enterprises,29789.901,家
+2023,浙江,new_jobs,New Urban Jobs,72.308,万人
+2023,浙江,internet,Internet Penetration,95.604,%
+2023,浙江,edu_years,Avg. Years of Schooling,10.681,年
+2023,山东,rd_intensity,R&D Intensity,2.732,%
+2023,山东,patents_per10k,Invention Patents / 10k,31.54,件
+2023,山东,digital_share,Digital Economy Share,27.239,%
+2023,山东,labor_prod,Labor Productivity,18.418,万元/人
+2023,山东,energy_intensity,Energy Intensity,0.407,吨标煤/万元
+2023,山东,clean_energy,Clean Energy Capacity Share,24.352,%
+2023,山东,income,Per-capita Disposable Income,39872.595,元
+2023,山东,hightech,High-tech Enterprises,19859.645,家
+2023,山东,new_jobs,New Urban Jobs,81.748,万人
+2023,山东,internet,Internet Penetration,93.721,%
+2023,山东,edu_years,Avg. Years of Schooling,10.122,年
+2023,四川,rd_intensity,R&D Intensity,2.148,%
+2023,四川,patents_per10k,Invention Patents / 10k,26.905,件
+2023,四川,digital_share,Digital Economy Share,24.103,%
+2023,四川,labor_prod,Labor Productivity,13.847,万元/人
+2023,四川,energy_intensity,Energy Intensity,0.408,吨标煤/万元
+2023,四川,clean_energy,Clean Energy Capacity Share,29.81,%
+2023,四川,income,Per-capita Disposable Income,31655.164,元
+2023,四川,hightech,High-tech Enterprises,11658.854,家
+2023,四川,new_jobs,New Urban Jobs,65.997,万人
+2023,四川,internet,Internet Penetration,95.176,%
+2023,四川,edu_years,Avg. Years of Schooling,9.818,年
+2023,湖北,rd_intensity,R&D Intensity,2.479,%
+2023,湖北,patents_per10k,Invention Patents / 10k,31.697,件
+2023,湖北,digital_share,Digital Economy Share,25.94,%
+2023,湖北,labor_prod,Labor Productivity,15.413,万元/人
+2023,湖北,energy_intensity,Energy Intensity,0.395,吨标煤/万元
+2023,湖北,clean_energy,Clean Energy Capacity Share,27.042,%
+2023,湖北,income,Per-capita Disposable Income,33686.578,元
+2023,湖北,hightech,High-tech Enterprises,13590.109,家
+2023,湖北,new_jobs,New Urban Jobs,53.866,万人
+2023,湖北,internet,Internet Penetration,93.766,%
+2023,湖北,edu_years,Avg. Years of Schooling,10.196,年
+2023,陕西,rd_intensity,R&D Intensity,2.612,%
+2023,陕西,patents_per10k,Invention Patents / 10k,34.637,件
+2023,陕西,digital_share,Digital Economy Share,21.827,%
+2023,陕西,labor_prod,Labor Productivity,15.295,万元/人
+2023,陕西,energy_intensity,Energy Intensity,0.458,吨标煤/万元
+2023,陕西,clean_energy,Clean Energy Capacity Share,25.315,%
+2023,陕西,income,Per-capita Disposable Income,29215.919,元
+2023,陕西,hightech,High-tech Enterprises,9889.364,家
+2023,陕西,new_jobs,New Urban Jobs,49.781,万人
+2023,陕西,internet,Internet Penetration,92.165,%
+2023,陕西,edu_years,Avg. Years of Schooling,9.933,年
+2023,贵州,rd_intensity,R&D Intensity,1.043,%
+2023,贵州,patents_per10k,Invention Patents / 10k,10.464,件
+2023,贵州,digital_share,Digital Economy Share,14.609,%
+2023,贵州,labor_prod,Labor Productivity,9.119,万元/人
+2023,贵州,energy_intensity,Energy Intensity,0.569,吨标煤/万元
+2023,贵州,clean_energy,Clean Energy Capacity Share,36.01,%
+2023,贵州,income,Per-capita Disposable Income,21970.775,元
+2023,贵州,hightech,High-tech Enterprises,3964.55,家
+2023,贵州,new_jobs,New Urban Jobs,32.685,万人
+2023,贵州,internet,Internet Penetration,91.439,%
+2023,贵州,edu_years,Avg. Years of Schooling,9.301,年
+2024,北京,rd_intensity,R&D Intensity,7.853,%
+2024,北京,patents_per10k,Invention Patents / 10k,163.418,件
+2024,北京,digital_share,Digital Economy Share,63.011,%
+2024,北京,labor_prod,Labor Productivity,35.645,万元/人
+2024,北京,energy_intensity,Energy Intensity,0.179,吨标煤/万元
+2024,北京,clean_energy,Clean Energy Capacity Share,29.484,%
+2024,北京,income,Per-capita Disposable Income,90437.665,元
+2024,北京,hightech,High-tech Enterprises,41482.704,家
+2024,北京,new_jobs,New Urban Jobs,39.182,万人
+2024,北京,internet,Internet Penetration,96.164,%
+2024,北京,edu_years,Avg. Years of Schooling,12.684,年
+2024,上海,rd_intensity,R&D Intensity,4.923,%
+2024,上海,patents_per10k,Invention Patents / 10k,113.296,件
+2024,上海,digital_share,Digital Economy Share,53.753,%
+2024,上海,labor_prod,Labor Productivity,38.189,万元/人
+2024,上海,energy_intensity,Energy Intensity,0.235,吨标煤/万元
+2024,上海,clean_energy,Clean Energy Capacity Share,27.82,%
+2024,上海,income,Per-capita Disposable Income,86757.727,元
+2024,上海,hightech,High-tech Enterprises,31371.7,家
+2024,上海,new_jobs,New Urban Jobs,45.063,万人
+2024,上海,internet,Internet Penetration,97.025,%
+2024,上海,edu_years,Avg. Years of Schooling,11.938,年
+2024,广东,rd_intensity,R&D Intensity,3.271,%
+2024,广东,patents_per10k,Invention Patents / 10k,65.831,件
+2024,广东,digital_share,Digital Economy Share,50.543,%
+2024,广东,labor_prod,Labor Productivity,22.708,万元/人
+2024,广东,energy_intensity,Energy Intensity,0.288,吨标煤/万元
+2024,广东,clean_energy,Clean Energy Capacity Share,29.161,%
+2024,广东,income,Per-capita Disposable Income,49549.608,元
+2024,广东,hightech,High-tech Enterprises,46216.643,家
+2024,广东,new_jobs,New Urban Jobs,100.303,万人
+2024,广东,internet,Internet Penetration,96.946,%
+2024,广东,edu_years,Avg. Years of Schooling,10.582,年
+2024,江苏,rd_intensity,R&D Intensity,3.475,%
+2024,江苏,patents_per10k,Invention Patents / 10k,75.867,件
+2024,江苏,digital_share,Digital Economy Share,42.516,%
+2024,江苏,labor_prod,Labor Productivity,24.023,万元/人
+2024,江苏,energy_intensity,Energy Intensity,0.302,吨标煤/万元
+2024,江苏,clean_energy,Clean Energy Capacity Share,29.479,%
+2024,江苏,income,Per-capita Disposable Income,52673.386,元
+2024,江苏,hightech,High-tech Enterprises,39413.048,家
+2024,江苏,new_jobs,New Urban Jobs,76.42,万人
+2024,江苏,internet,Internet Penetration,97.365,%
+2024,江苏,edu_years,Avg. Years of Schooling,10.927,年
+2024,浙江,rd_intensity,R&D Intensity,3.184,%
+2024,浙江,patents_per10k,Invention Patents / 10k,70.984,件
+2024,浙江,digital_share,Digital Economy Share,47.331,%
+2024,浙江,labor_prod,Labor Productivity,24.276,万元/人
+2024,浙江,energy_intensity,Energy Intensity,0.295,吨标煤/万元
+2024,浙江,clean_energy,Clean Energy Capacity Share,30.533,%
+2024,浙江,income,Per-capita Disposable Income,62459.517,元
+2024,浙江,hightech,High-tech Enterprises,33868.752,家
+2024,浙江,new_jobs,New Urban Jobs,73.28,万人
+2024,浙江,internet,Internet Penetration,96.907,%
+2024,浙江,edu_years,Avg. Years of Schooling,10.765,年
+2024,山东,rd_intensity,R&D Intensity,2.769,%
+2024,山东,patents_per10k,Invention Patents / 10k,36.609,件
+2024,山东,digital_share,Digital Economy Share,28.762,%
+2024,山东,labor_prod,Labor Productivity,19.662,万元/人
+2024,山东,energy_intensity,Energy Intensity,0.392,吨标煤/万元
+2024,山东,clean_energy,Clean Energy Capacity Share,27.42,%
+2024,山东,income,Per-capita Disposable Income,43372.206,元
+2024,山东,hightech,High-tech Enterprises,22913.018,家
+2024,山东,new_jobs,New Urban Jobs,84.074,万人
+2024,山东,internet,Internet Penetration,97.344,%
+2024,山东,edu_years,Avg. Years of Schooling,10.139,年
+2024,四川,rd_intensity,R&D Intensity,2.26,%
+2024,四川,patents_per10k,Invention Patents / 10k,30.049,件
+2024,四川,digital_share,Digital Economy Share,25.234,%
+2024,四川,labor_prod,Labor Productivity,14.546,万元/人
+2024,四川,energy_intensity,Energy Intensity,0.396,吨标煤/万元
+2024,四川,clean_energy,Clean Energy Capacity Share,31.49,%
+2024,四川,income,Per-capita Disposable Income,33532.307,元
+2024,四川,hightech,High-tech Enterprises,13172.36,家
+2024,四川,new_jobs,New Urban Jobs,67.323,万人
+2024,四川,internet,Internet Penetration,95.439,%
+2024,四川,edu_years,Avg. Years of Schooling,9.707,年
+2024,湖北,rd_intensity,R&D Intensity,2.496,%
+2024,湖北,patents_per10k,Invention Patents / 10k,36.146,件
+2024,湖北,digital_share,Digital Economy Share,27.433,%
+2024,湖北,labor_prod,Labor Productivity,16.281,万元/人
+2024,湖北,energy_intensity,Energy Intensity,0.382,吨标煤/万元
+2024,湖北,clean_energy,Clean Energy Capacity Share,30.193,%
+2024,湖北,income,Per-capita Disposable Income,36210.116,元
+2024,湖北,hightech,High-tech Enterprises,15706.927,家
+2024,湖北,new_jobs,New Urban Jobs,56.195,万人
+2024,湖北,internet,Internet Penetration,97.726,%
+2024,湖北,edu_years,Avg. Years of Schooling,10.248,年
+2024,陕西,rd_intensity,R&D Intensity,2.626,%
+2024,陕西,patents_per10k,Invention Patents / 10k,38.935,件
+2024,陕西,digital_share,Digital Economy Share,23.518,%
+2024,陕西,labor_prod,Labor Productivity,16.323,万元/人
+2024,陕西,energy_intensity,Energy Intensity,0.433,吨标煤/万元
+2024,陕西,clean_energy,Clean Energy Capacity Share,28.425,%
+2024,陕西,income,Per-capita Disposable Income,30841.074,元
+2024,陕西,hightech,High-tech Enterprises,11530.647,家
+2024,陕西,new_jobs,New Urban Jobs,48.977,万人
+2024,陕西,internet,Internet Penetration,96.353,%
+2024,陕西,edu_years,Avg. Years of Schooling,9.999,年
+2024,贵州,rd_intensity,R&D Intensity,1.067,%
+2024,贵州,patents_per10k,Invention Patents / 10k,11.984,件
+2024,贵州,digital_share,Digital Economy Share,15.546,%
+2024,贵州,labor_prod,Labor Productivity,9.615,万元/人
+2024,贵州,energy_intensity,Energy Intensity,0.546,吨标煤/万元
+2024,贵州,clean_energy,Clean Energy Capacity Share,37.431,%
+2024,贵州,income,Per-capita Disposable Income,23985.391,元
+2024,贵州,hightech,High-tech Enterprises,4597.235,家
+2024,贵州,new_jobs,New Urban Jobs,32.931,万人
+2024,贵州,internet,Internet Penetration,98.656,%
+2024,贵州,edu_years,Avg. Years of Schooling,9.427,年
